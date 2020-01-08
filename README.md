@@ -13,7 +13,7 @@ our canonical home is currently https://ledger-git.dyne.org/CoBox
 * [cobox-server](https://ledger-git.dyne.org/CoBox/cobox-server)
 * [cobox-group](https://ledger-git.dyne.org/CoBox/cobox-group)
   * a single p2p private group, containing storage and application layer data
-* [kappa-private](https://ledger-git.dyne.org/CoBox/cobox-group)
+* [kappa-private](https://ledger-git.dyne.org/CoBox/kappa-private)
   * Use private-box for sending encrypted messages between kappa-core feeds
 * [kappa-drive-dump](https://ledger-git.dyne.org/CoBox/kappa-drive-dump)
   * download / upload files from / to a kappa-drive
