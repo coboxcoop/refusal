@@ -5,5 +5,5 @@ a statement about our refusal to organise from within github and an index of whe
 
 everything can found at:
 
-* cobox.cloud 
+* https://cobox.cloud 
 * https://gitlab.com/coboxcoop
